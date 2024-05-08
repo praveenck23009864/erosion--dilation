@@ -24,8 +24,8 @@ Dilate the Image
  
 ## Program:
 ```
-Developed By: Pravinrajj G.K
-Register No: 212222240080
+Developed By: Praveen ck
+Register No: 212222243003
 ```
 ``` Python
 # Import the necessary packages
